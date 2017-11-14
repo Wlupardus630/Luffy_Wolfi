@@ -1,0 +1,6 @@
+#!bin/bash
+echo "Introduction to variables"
+read -p "Who are you? " name 
+read -p "How old are you? " age
+echo "Your name is $name and you are $age years old."
+echo " "
